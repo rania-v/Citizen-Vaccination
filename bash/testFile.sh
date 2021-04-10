@@ -42,13 +42,10 @@ while IFS= read -r line; do
 		countries_array+=($line)
 done < $countriesfile
 
-# for index in "${countries_array[@]}"; do echo "$index"; done
-
 # create new data file
 
 for (( c=1; c<=filelength; c++ ))
 do
-
 	citizenId=$((0 + $RANDOM % 9999))
 	# if(($duplicates == 0))
 	# then
@@ -59,22 +56,41 @@ do
 	# fi
 
 	len=${#viruses_array[@]}
-	randnum=$((0 + $RANDOM % len-1))
+	randnum=$((0 + $RANDOM % len))
 	virus=${viruses_array[randnum]}
 
 	len=${#fnames_array[@]}
-	randnum=$((0 + $RANDOM % len-1))
+	randnum=$((0 + $RANDOM % len))
 	firstname=${fnames_array[randnum]}
 
 	len=${#lnames_array[@]}
-	randnum=$((0 + $RANDOM % len-1))
+	randnum=$((0 + $RANDOM % len))
 	lastname=${lnames_array[randnum]}
 
 	len=${#countries_array[@]}
-	randnum=$((0 + $RANDOM % len-1))
+	randnum=$((0 + $RANDOM % len))
 	country=${countries_array[randnum]}
 
 	age=$((1 + $RANDOM % 120))
 
-	printf "$citizenId $virus $firstname $lastname $country $age\n">> Data.txt
+	cond=$((0 + $RANDOM % 2))
+	if((cond))
+	then
+		condition="YES"
+	else
+		condition="NO"
+	fi
+
+	printf "$citizenId $firstname $lastname $country $age $virus $condition">> citizenRecordsFile.txt
+
+	if((cond))
+	then
+		day=$((1 + $RANDOM % 30))
+		month=$((0 + $RANDOM % 12))
+		year=$(((2020 - age) + $RANDOM % age))
+		printf " $day-$month-$year">> citizenRecordsFile.txt
+	fi
+
+	printf "\n">> citizenRecordsFile.txt
+
 done

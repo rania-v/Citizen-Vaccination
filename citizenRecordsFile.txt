@@ -1,0 +1,99 @@
+8193 Khaled Chao Mauritania 111 Rabies NO
+2734 Cheng-En Lo Bulgaria 105 Tickborne_encephalitis NO
+8045 Eylul Mogul Bhutan 63 Hepatitis_B YES 2-6-2005
+696 Peyton Cha Portugal 21 Junin NO
+2994 Sota Aucoin Argentina 51 Japanese_encephalitis NO
+4000 Simon Falkenberg New_Zealand 44 Ebola YES 20-10-1992
+5203 John Masih Djibouti 96 Hepatitis_C YES 11-2-2007
+4470 Madison Lo Turkey 2 Hepatitis_A YES 5-1-2019
+3641 Besan Nguy Honduras 1 Human_papillomavirus YES 16-9-2019
+8247 Michael Fujita Mauritania 106 Tickborne_encephalitis NO
+748 Yua Dobrow Honduras 4 Varicella_zoster YES 24-5-2016
+6908 Kian Khong Grenada 19 Rabies YES 1-11-2003
+600 Iminathi Petrov Bahrain 11 Rotavirus NO
+9414 Tai Derrick Morocco 60 Rubella YES 7-0-1981
+9057 Alfie Basara Vanuatu 52 Junin NO
+9538 Iminathi Kuk Solomon_Islands 89 Ebola YES 10-11-1967
+1795 Tala Man Brunei 4 Variola YES 19-1-2017
+4363 Leah Pershing Slovakia 10 Hepatitis_B YES 8-5-2010
+1482 Leona Panagakos Nepal 46 Tickborne_encephalitis NO
+2068 Ailbhe Fukui Sweden 14 Influenza YES 21-1-2019
+9010 Manato Umeda Pakistan 74 Rotavirus NO
+8512 Ayham Mifsud Niger 36 Polio YES 23-0-1996
+3226 Aruzhan Youtz Bulgaria 50 Varicella_zoster YES 1-10-1988
+8771 Olivia Friberg Australia 85 Junin YES 27-6-1953
+5378 Craig Hwang Somalia 70 Hepatitis_B YES 3-8-1983
+3178 Patrick Hiraoka Uganda 77 Hepatitis_C YES 28-3-1988
+9995 Leanne Nwosu Tajikistan 22 Measles NO
+9705 Tane Min Russia 101 Variola YES 24-5-2009
+7380 Hiroto Dagher Cuba 7 Variola NO
+8669 Gerard Dagher Cuba 84 Junin NO
+4789 Logan Delay Cote_dIvoire 51 Hepatitis_A NO
+6238 Kathleen Go Indonesia 16 Varicella_zoster YES 6-5-2015
+8778 Sanzhar Bielke Mexico 116 Junin YES 10-0-1979
+57 Donnacha Agen Micronesia 43 Ebola NO
+7006 Samantha Federoff Nauru 26 Japanese_encephalitis YES 6-4-2007
+2261 Filip Bonde North_Korea 10 Hepatitis_A NO
+5320 Ryuto Watanabe Peru 46 Hepatitis_B NO
+7837 Niamh Psomas Kyrgyzstan 93 Polio YES 13-4-1974
+8260 Pin-Jui Alexandre Bolivia 77 Variola YES 20-1-1954
+913 Scott Papadakis Turkey 45 Hepatitis_B YES 15-7-1982
+5707 Lesedi Mena Monaco 34 H1N1 NO
+4659 Donnacha Nicolaou Ecuador 14 Mumps NO
+9494 Rachel Fukumoto Vatican_City 34 Tickborne_encephalitis NO
+1410 Hina Krasnoff Saint_Lucia 25 Human_papillomavirus NO
+1163 Sota Arcement Saudi_Arabia 18 Junin NO
+8716 Ondrej Burdin Bulgaria 104 Japanese_encephalitis YES 28-10-2005
+4275 Mei Mellis Cuba 104 Junin YES 21-1-1979
+9901 Yusei Angles Cuba 46 Junin YES 25-3-2002
+2381 Tadhg Pong Dominican_Republic 67 Hepatitis_A YES 11-3-2017
+524 Isaac Cai Nepal 88 Mumps NO
+9237 Thomas Raptis Peru 59 Polio YES 18-3-2012
+5097 Scott Safar Micronesia 74 Human_papillomavirus YES 16-10-2008
+7824 Seo-hyeon Her Cyprus 55 Measles NO
+3048 Maya Yamamoto Turkey 27 Rubella YES 11-2-1994
+2394 Yume Jong Slovenia 27 Dengue NO
+314 Danielle Bobko Saint_Lucia 114 Measles NO
+1267 Max Gallagher Bangladesh 80 Rabies NO
+677 Edward Chakraborty Timor_Leste 118 Tickborne_encephalitis NO
+4564 Haruka Isa Germany 17 Ebola YES 5-11-2005
+2551 Maya Yamauchi Madagascar 11 Variola NO
+7243 Bjarki Deeley Nauru 9 Variola YES 20-2-2016
+2052 Jana Mah Romania 26 Influenza NO
+1118 Tai Uyeda Burkina_Faso 102 Junin NO
+2704 Dillon Goe Germany 70 Mumps YES 2-2-1964
+1867 Lola Hang Monaco 81 Rubella YES 10-6-2014
+1241 Haruma Kassis Cuba 83 Yellow_fever NO
+6656 Mason Contee Russia 6 Variola NO
+2181 Lena Sabbag Barbados 59 Varicella_zoster YES 20-11-2012
+7964 Robyn Flood Moldova 42 Hepatitis_C YES 13-3-2017
+3776 Hiyori Hwang Afghanistan 80 Hepatitis_A YES 25-1-1968
+9910 Gabriela Seth Ghana 71 Variola YES 10-2-1981
+1866 Danny Bjerke Burkina_Faso 100 Tickborne_encephalitis YES 12-7-1977
+6756 Casey Aude Finland 79 H1N1 NO
+78 Ivy Turay Lithuania 96 Varicella_zoster NO
+4178 Mikaela Botros Ethiopia 11 Hepatitis_C YES 23-11-2009
+2048 Adél Melis Bolivia 100 Measles NO
+1292 Natalia Owusu Lesotho 113 Varicella_zoster NO
+2953 Zara Arsenault Myanmar 18 Junin NO
+9836 Tara Dignam Switzerland 40 Yellow_fever NO
+3263 Imogen Nie Malta 62 Influenza NO
+3324 Jui-En Ardoin USA 117 Rabies YES 8-1-1989
+7380 Ryusei Foren Kuwait 34 Yellow_fever NO
+567 Matilda Bardin Guatemala 16 Measles YES 4-10-2006
+561 Jordan Ang Gabon 65 Polio NO
+3950 Ava Gahan Vietnam 8 Polio YES 19-10-2016
+9045 Noah Kang Grenada 116 Human_papillomavirus NO
+662 Egor Chino Kiribati 31 Dengue NO
+8416 Ji-woo Toure Somalia 76 Junin NO
+9361 Manawa Armel Kiribati 4 Human_papillomavirus NO
+7651 Matthew Pei Turkmenistan 74 Measles NO
+5153 Rawiri Yamamura Guatemala 113 Rotavirus NO
+53 Kauri Usui Kiribati 112 Rotavirus NO
+1664 Rikuto Tomita Philippines 79 Junin NO
+479 Kauri Ganim Austria 110 Rubella NO
+8072 Michaela Qian Dominican_Republic 100 Tickborne_encephalitis NO
+8857 Lethabo Sauerbrey Paraguay 102 Ebola NO
+3430 Alisa Uyeno Cameroon 6 Hepatitis_B NO
+7025 Abbie Jang Venezuela 14 Tickborne_encephalitis YES 12-2-2007
+1921 Tai Mifsud Kenya 97 Variola YES 15-9-1949
