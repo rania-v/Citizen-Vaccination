@@ -62,9 +62,7 @@ We can also update and change the data:
 
 The programm ends when it reads /exit.
 
-For this project, skip-lists (key: citizenId) are used for the data representation and manipulation, one for each virus,
-and one for the non-vaccinated citizens.
-
-The goal is that there is minimal data duplication.
+For this project, skip-lists (key: citizenId) are used for the data representation and manipulation, for each virus,
+one for the vaccinated and one for the non-vaccinated citizens. Every entry that is stored in the skip-lists concists of pointers to the corresponding nodes of hash table buckets. There are hash tables for every field of the entries, in order to minimize data duplication when entries are stored in the skip-lists.
 
 A bash script is included in order to create a proper input file, with the option to create duplicate citizenIds.
