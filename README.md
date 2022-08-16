@@ -1,4 +1,4 @@
-The programm recieves, process, records and answears user questions about cictizen vaccinations.
+The programm recieves, process, records and answers user questions about cictizen vaccinations.
 
 The citizen data are read and inserted in the structures used for answearing the questions.
 Validity checks are performed during the insertion, so that no entries share the same id (citizenId).
